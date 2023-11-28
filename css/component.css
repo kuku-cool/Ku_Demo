@@ -742,13 +742,15 @@ strong {
         margin-left: 0;
     }
 }
-
 .word_badge{
+    display: inline-block;
     border-radius: 20px;
     color: #E6EEF2;
     background-color: #97B4C1;
     padding: 5px 10px;
+    margin-bottom: 10px;
 }
+
 /*-------------------------*/
 /* $Contact
 ---------------------------*/
